@@ -2,7 +2,7 @@ import profileImage from '../assets/profileImage3.jpeg'
 import { InformationButton } from './InformationButton'
 import { SkillsTable } from './SkillsTable'
 
-export const Profile = () => {
+export const Profile = ({wsp}) => {
   return (
     <>
     <img className="profile-image" src={profileImage} alt="Armando" />
@@ -26,7 +26,7 @@ export const Profile = () => {
 
       <SkillsTable/>
     </div>
-    <InformationButton>
+    <InformationButton link={`https://wa.me/${wsp}`}>
         CONNECT WITH ME
     </InformationButton>
     </>
