@@ -2,6 +2,7 @@ import { NavBar } from "./components/NavBar";
 import { Profile } from "./components/Profile";
 import { Divisor } from "./components/Divisor";
 import { Projects } from "./components/Projects";
+import { Experience } from "./components/Experience";
 
 function App() {
   const wsp = '+573023596825'
@@ -17,10 +18,13 @@ function App() {
       </header>
 
     <section id="projects" className="project-container container">
+    <Divisor text="Check out some of my professional experience">Experience</Divisor>
+    <article class="project">
+    <Experience/>
+    </article>
     <Divisor text="Check out some of the projects where I have worked.">Projects</Divisor>
     <article class="project">
     <Projects/>
-
       </article>
     </section>
     </div>

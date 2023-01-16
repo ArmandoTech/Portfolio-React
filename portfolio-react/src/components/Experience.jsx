@@ -1,6 +1,7 @@
 import { Container } from "./Container"
 import servicoches from "../assets/project/servicoches2-logo.jpg"
 import biofile from "../assets/experience/LogoBiofile.png"
+import enciso from "../assets/experience/LogoEnciso.png"
 
 export const Experience = () => {
   return (
@@ -9,6 +10,12 @@ export const Experience = () => {
         linkInternet="https://biofile.com.co/"
         image={biofile}>
             BIOFILE S.A.S
+        </Container>
+
+        <Container technologies="React, Docker, Electron, Django, Sonarqube"
+        linkInternet="https://www.encisosystems.com/"
+        image={enciso}>
+            ENCISO SYSTEMS
         </Container>
 
         <Container technologies="Javascript, HTML, CSS"
