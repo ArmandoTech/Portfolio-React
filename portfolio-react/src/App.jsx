@@ -3,6 +3,8 @@ import { Profile } from "./components/Profile";
 import { Divisor } from "./components/Divisor";
 import { Projects } from "./components/Projects";
 import { Experience } from "./components/Experience";
+import { InformationButton } from "./components/InformationButton";
+import { Footer } from "./components/Footer";
 
 function App() {
   const wsp = '+573023596825'
@@ -26,7 +28,9 @@ function App() {
     <article class="project">
     <Projects/>
       </article>
+    <InformationButton link="https://github.com/ArmandoTech">See more <i class="fas fa-arrow-right"></i></InformationButton>
     </section>
+    <Footer/>
     </div>
   );
 }
