@@ -1,4 +1,4 @@
-import {facebookIcon, twitterIcon, linkedinIcon, githubIcon} from "../assets/"
+import {facebookIcon, twitterIcon, linkedinIcon, githubIcon, mailIcon} from "../assets/"
 
 export const Footer = () => {
   return (
@@ -8,9 +8,9 @@ export const Footer = () => {
           >Want to connect? Mail me!</a
         >
         <div class="social">
-          {/* <a href="mailto:armandoarenass@hotmail.com" target="_blank" rel="noreferrer">
-            <img src={mailIcon} alt="Hotmail"
-          /></a> */}
+          <a href="mailto:armandoarenass@hotmail.com" target="_blank" rel="noreferrer">
+            <img src={mailIcon} alt="Hotmail" style={{display:"inline-block"}}
+          /></a>
           <a
             href="https://www.facebook.com/armando.arenassanchez/"
             target="_blank" rel="noreferrer"
