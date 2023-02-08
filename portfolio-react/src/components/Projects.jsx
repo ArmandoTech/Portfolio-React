@@ -1,9 +1,13 @@
-import onlineStore from "../assets/project/online-store.png"
-import portfolio from "../assets/project/portfolio.jpeg"
-import deliveryApp from "../assets/project/DeliveryApp.jpeg"
-import americanGrill from "../assets/project/americangrill-logo.jpeg"
-import chatApp from "../assets/project/chatApp.png"
-import crudMySQL from "../assets/project/crud-node-mysql.png"
+// import onlineStore from "../assets/project/online-store.png"
+// import portfolio from "../assets/project/portfolio.jpeg"
+// import deliveryApp from "../assets/project/DeliveryApp.jpeg"
+// import americanGrill from "../assets/project/americangrill-logo.jpeg"
+// import chatApp from "../assets/project/chatApp.png"
+// import crudMySQL from "../assets/project/crud-node-mysql.png"
+
+import { 
+  onlineStore, portfolio, deliveryApp, americanGrill, chatApp, crudMySQL
+} from "../assets/project"
 import { Container } from "./Container"
 
 export const Projects = () => {
