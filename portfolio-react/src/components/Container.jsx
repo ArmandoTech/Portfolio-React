@@ -1,7 +1,7 @@
 
 export const Container = ({technologies, linkGithub, image, linkInternet,children}) => {
   return (
-    <div href="" className="card" style={{ background: `url(${image}) center center/cover`}}>
+    <div href="" className="card" style={{ background: `url(${image})`}}>
           <div className="project-info">
             <div className="project-bio">
               <h3>{children}</h3>

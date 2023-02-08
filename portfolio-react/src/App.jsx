@@ -1,13 +1,11 @@
-import { NavBar } from "./components/NavBar";
-import { Profile } from "./components/Profile";
-import { Divisor } from "./components/Divisor";
-import { Projects } from "./components/Projects";
-import { Experience } from "./components/Experience";
-import { InformationButton } from "./components/InformationButton";
-import { Footer } from "./components/Footer";
+
+import { 
+  NavBar, Profile, Divisor, Projects, Experience, InformationButton, Footer 
+} from "./components"
+
+const wsp = '+573023596825'
 
 function App() {
-  const wsp = '+573023596825'
 
   return (
     <div>
