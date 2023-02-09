@@ -9,17 +9,16 @@ export const Profile = ({wsp}) => {
     <h1>Hi I'm Armando</h1>
 
     <div className="content-text">
-      <h2>Software developer in the making,</h2>
+      <h2>Self-Taught developer,</h2>
       <h2>Chemical Engineering drop out.</h2>
+      <h4>#React #Node #SQL #MongoDB</h4>
 
       <p>
-        I'm a college dropout from Universidad Industrial de Santander. I
-        completed 3 years (6 semesters) of chemical engineering, got
-        approved every subject of the curriculum until there. I had a GPA of
-        4.25/5. My highest semester GPA was 4.54, got a distinction and a
-        25% scholarship for that. I realized that I love coding. I decided
-        to dropout university and dedicate myself to study fulltime web
-        development, focusing on backend with node and express.
+        I'm a college dropout from Industrial University of Santander. I
+        completed 3 years of my bachelors with a special distinction
+        for my 4.54/5.0 GPA. When I realized that I loved coding I decided
+        to dropout college and dedicate myself to study fulltime web
+        development, as a Javascript Full-Stack developer. 
       </p>
 
       <br />

@@ -1,8 +1,8 @@
 import { Container } from "./Container"
 import servicoches from "../assets/project/servicoches2-logo.jpg"
+import { biofile, enciso } from "../assets/experience"
 // import biofile from "../assets/experience/LogoBiofile.png"
 // import enciso from "../assets/experience/LogoEnciso.png"
-import { biofile, enciso } from "../assets/experience"
 
 export const Experience = () => {
   return (
