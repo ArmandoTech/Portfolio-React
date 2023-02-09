@@ -1,5 +1,5 @@
-import moon from '../assets/moon.svg'
-import sun from '../assets/sun.svg'
+import { moon, sun } from '../assets/'
+// import sun from '../assets/sun.svg'
 
 
 export const ThemeSwitch = () => {

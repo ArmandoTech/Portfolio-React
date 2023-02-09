@@ -1,6 +1,6 @@
 import profileImage from '../assets/profileImage3.jpeg'
-import { InformationButton } from './InformationButton'
-import { SkillsTable } from './SkillsTable'
+import { InformationButton, SkillsTable } from './'
+// import { SkillsTable } from './SkillsTable'
 
 export const Profile = ({wsp}) => {
   return (

@@ -1,7 +1,8 @@
-import { NavBarItem } from "./NavBarItem"
-import { ResumeBtn } from "./ResumeBtn"
-import { ThemeSwitch } from "./ThemeSwitch"
-import { Logo } from "./Logo"
+// import { NavBarItem } from "./NavBarItem"
+// import { ResumeBtn } from "./ResumeBtn"
+// import { ThemeSwitch } from "./ThemeSwitch"
+// import { Logo } from "./Logo"
+import { NavBarItem, ResumeBtn, ThemeSwitch, Logo } from "./"
 
 export const NavBar = ({wsp}) => {
   return (
