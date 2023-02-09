@@ -1,5 +1,5 @@
 
-export const Container = ({technologies, linkGithub, image, linkInternet,children}) => {
+export const Container = ({technologies, linkGithub, image, linkInternet, children}) => {
   return (
     <div href="" className="card" style={{ background: `url(${image})`}}>
           <div className="project-info">
@@ -10,19 +10,42 @@ export const Container = ({technologies, linkGithub, image, linkInternet,childre
 
             <div className="project-link">
                 {
-                    linkInternet 
-                    ?
+                  //   linkInternet 
+                  //   ?
+                  //   <> 
+                  //   <a href={linkGithub} target="_blank" rel="noreferrer">
+                  //   <i className="fab fa-github"></i>
+                  //   </a>
+                  //   <a href={linkInternet} target="_blank" rel="noreferrer">
+                  //       <i class="fas fa-globe"></i
+                  // ></a>
+                  // </> 
+                  // : <a href={linkGithub} target="_blank" rel="noreferrer">
+                  //   <i className="fab fa-github"></i>
+                  //   </a>
+
+                  linkInternet ? 
                     <> 
-                    <a href={linkGithub} target="_blank" rel="noreferrer">
-                    <i className="fab fa-github"></i>
-                    </a>
-                    <a href={linkInternet} target="_blank" rel="noreferrer">
-                        <i class="fas fa-globe"></i
-                  ></a>
-                  </> 
-                  : <a href={linkGithub} target="_blank" rel="noreferrer">
-                    <i className="fab fa-github"></i>
-                    </a>
+                      <a href={linkInternet} target="_blank" rel="noreferrer">
+                      <i class="fas fa-globe"></i
+                      ></a>
+                    </>
+                    : linkGithub ?  
+                    <>
+                      <a href={linkGithub} target="_blank" rel="noreferrer">
+                      <i className="fab fa-github"></i>
+                      </a>
+                    </>
+                    : linkInternet && linkGithub ?
+                    <>
+                      <a href={linkGithub} target="_blank" rel="noreferrer">
+                      <i className="fab fa-github"></i>
+                      </a>
+                      <a href={linkInternet} target="_blank" rel="noreferrer">
+                      <i class="fas fa-globe"></i
+                      ></a>
+                    </>
+                    : <a href="">#</a>
                 }
             </div>
           </div>
