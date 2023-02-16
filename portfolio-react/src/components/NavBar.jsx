@@ -10,7 +10,7 @@ export const NavBar = ({wsp}) => {
                 <NavBarItem linkItem={'#projects'}>PROJECTS</NavBarItem>
                 <NavBarItem linkItem={`https://wa.me/${wsp}`}>CONTACT</NavBarItem>
                 <ResumeBtn/>
-                <ThemeSwitch/>
+                {/* <ThemeSwitch/> */}
           </ul>
         </div>
       </nav>

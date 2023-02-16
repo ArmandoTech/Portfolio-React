@@ -9,7 +9,7 @@ export const Profile = ({wsp}) => {
     <h1>Hi I'm Armando</h1>
 
     <div className="content-text">
-      <h2>Self-Taught developer,</h2>
+      <h2>Self-Taught Developer,</h2>
       <h2>Chemical Engineering drop out.</h2>
       <h4>#MERN #SQL #Python</h4>
 

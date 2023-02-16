@@ -20,14 +20,14 @@ function App() {
 
     <section id="projects" className="project-container container">
     <Divisor text="Check out some of my professional experience">Experience</Divisor>
-    <article class="project">
+    <article className="project">
     <Experience/>
     </article>
     <Divisor text="Check out some of the projects where I have worked.">Projects</Divisor>
-    <article class="project">
+    <article className="project">
     <Projects/>
       </article>
-    <InformationButton link={github}>See more <i class="fas fa-arrow-right"></i></InformationButton>
+    <InformationButton link={github}>See more <i className="fas fa-arrow-right"></i></InformationButton>
     </section>
     <Footer/>
     </div>
