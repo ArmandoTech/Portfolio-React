@@ -3,7 +3,7 @@ import { UnorderedList } from "./UnorderedList"
 export const SkillsTable = () => {
 
     const skills = [
-        'Javascript (Node-express)', 
+        'Javascript', 'Node - Express', 'React', 
         'Python', 'NPM', 'Insomnia', 'Git and Github','HTML - CSS',
         'Django'
 ]
