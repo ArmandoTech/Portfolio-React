@@ -3,7 +3,7 @@ import {
   NavBar, Profile, Divisor, Projects, Experience, InformationButton, Footer 
 } from "./components"
 
-const wsp = '+573023596825'
+const wsp = '+15512549943'
 
 function App() {
 

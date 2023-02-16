@@ -10,20 +10,6 @@ export const Container = ({technologies, linkGithub, image, linkInternet, childr
 
             <div className="project-link">
                 {
-                  //   linkInternet 
-                  //   ?
-                  //   <> 
-                  //   <a href={linkGithub} target="_blank" rel="noreferrer">
-                  //   <i className="fab fa-github"></i>
-                  //   </a>
-                  //   <a href={linkInternet} target="_blank" rel="noreferrer">
-                  //       <i class="fas fa-globe"></i
-                  // ></a>
-                  // </> 
-                  // : <a href={linkGithub} target="_blank" rel="noreferrer">
-                  //   <i className="fab fa-github"></i>
-                  //   </a>
-
                   linkInternet ? 
                     <> 
                       <a href={linkInternet} target="_blank" rel="noreferrer">
