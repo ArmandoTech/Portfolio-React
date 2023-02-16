@@ -4,6 +4,7 @@ import {
 } from "./components"
 
 const wsp = '+15512549943'
+const github = "https://github.com/ArmandoTech"
 
 function App() {
 
@@ -26,7 +27,7 @@ function App() {
     <article class="project">
     <Projects/>
       </article>
-    <InformationButton link="https://github.com/ArmandoTech">See more <i class="fas fa-arrow-right"></i></InformationButton>
+    <InformationButton link={github}>See more <i class="fas fa-arrow-right"></i></InformationButton>
     </section>
     <Footer/>
     </div>
