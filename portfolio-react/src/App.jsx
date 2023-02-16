@@ -19,7 +19,12 @@ function App() {
       </header>
 
     <section id="projects" className="project-container container">
-    <Divisor text="Check out some of my professional experience">Experience</Divisor>
+    <Divisor text="I have worked as Quality Assurance and 
+    Fullstack Developer for world class observatories such as 
+    the ESO, IAU and NoirLab as for medical software company, 
+    using both Spanish and English communication.">
+    Experience
+    </Divisor>
     <article className="project">
     <Experience/>
     </article>

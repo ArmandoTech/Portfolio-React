@@ -3,9 +3,9 @@ import { UnorderedList } from "./UnorderedList"
 export const SkillsTable = () => {
 
     const skills = [
-        'Javascript', 'Python', 'Node - Express', 'React', 
-        'Insomnia', 'Git and Github',
-        'Django'
+        'Javascript', 'Python', 'Node - Express', 'React',
+        'Django' , 'Insomnia', 'Git and Github',
+        
 ]
     const database = [
         'MongoDB', 'Mongoose', 'MySQL',

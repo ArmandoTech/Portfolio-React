@@ -5,16 +5,16 @@ import { biofile, enciso } from "../assets/experience"
 export const Experience = () => {
   return (
     <>
-        <Container technologies="SQL Server, Crystal Reports, jQuery, ASP .Net"
-        linkInternet="https://biofile.com.co/"
-        image={biofile}>
-            BIOFILE S.A.S
-        </Container>
-
         <Container technologies="React, Docker, Electron, Django, Sonarqube"
         linkInternet="https://www.encisosystems.com/"
         image={enciso}>
             ENCISO SYSTEMS
+        </Container>
+
+        <Container technologies="SQL Server, Crystal Reports, jQuery, ASP .Net"
+        linkInternet="https://biofile.com.co/"
+        image={biofile}>
+            BIOFILE S.A.S
         </Container>
 
         <Container technologies="Javascript, HTML, CSS"
