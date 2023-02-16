@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.5a964622.css",
-    "main.js": "/Portfolio-React/static/js/main.94ec4a77.js",
+    "main.js": "/Portfolio-React/static/js/main.ae020744.js",
     "static/media/servicoches2-logo.jpg": "/Portfolio-React/static/media/servicoches2-logo.ac4b216ba2c49d71fc8a.jpg",
     "static/media/profileImage3.jpeg": "/Portfolio-React/static/media/profileImage3.f51fcc2dda7056ef6005.jpeg",
     "static/media/LogoBiofile.png": "/Portfolio-React/static/media/LogoBiofile.8e82da7695cc421b59bd.png",
@@ -21,10 +21,10 @@
     "static/media/linkedin-icon.svg": "/Portfolio-React/static/media/linkedin-icon.2515ef435f0c4d41742e880683efa77e.svg",
     "static/media/facebook-icon.svg": "/Portfolio-React/static/media/facebook-icon.92de8aedc143106eb025882995427cdc.svg",
     "main.5a964622.css.map": "/Portfolio-React/static/css/main.5a964622.css.map",
-    "main.94ec4a77.js.map": "/Portfolio-React/static/js/main.94ec4a77.js.map"
+    "main.ae020744.js.map": "/Portfolio-React/static/js/main.ae020744.js.map"
   },
   "entrypoints": [
     "static/css/main.5a964622.css",
-    "static/js/main.94ec4a77.js"
+    "static/js/main.ae020744.js"
   ]
 }
