@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.5a964622.css",
-    "main.js": "/portfolio-react/static/js/main.5b0cb90a.js",
-    "static/media/servicoches2-logo.jpg": "/portfolio-react/static/media/servicoches2-logo.ac4b216ba2c49d71fc8a.jpg",
-    "static/media/profileImage3.jpeg": "/portfolio-react/static/media/profileImage3.f51fcc2dda7056ef6005.jpeg",
-    "static/media/LogoBiofile.png": "/portfolio-react/static/media/LogoBiofile.8e82da7695cc421b59bd.png",
-    "static/media/online-store.png": "/portfolio-react/static/media/online-store.289aa9a3b78b57538cd7.png",
-    "static/media/portfolio.jpeg": "/portfolio-react/static/media/portfolio.26078b838824c6060acd.jpeg",
-    "static/media/americangrill-logo.jpeg": "/portfolio-react/static/media/americangrill-logo.8c4a819b927bb23e5ae1.jpeg",
-    "static/media/DeliveryApp.jpeg": "/portfolio-react/static/media/DeliveryApp.2dffc4f0737332f8b6eb.jpeg",
-    "static/media/LogoEnciso.png": "/portfolio-react/static/media/LogoEnciso.6f6e5a0f429697deb5cb.png",
-    "static/media/chatApp.png": "/portfolio-react/static/media/chatApp.998d3417a9394b3a468d.png",
-    "static/media/crud-node-mysql.png": "/portfolio-react/static/media/crud-node-mysql.724dafb511cbee32ed29.png",
-    "static/media/sun.svg": "/portfolio-react/static/media/sun.cf2ff2e2a87e9c214d0930a0194f5db2.svg",
-    "index.html": "/portfolio-react/index.html",
-    "static/media/twitter-icon.svg": "/portfolio-react/static/media/twitter-icon.c65b67674688060ff5c9662dfee89c28.svg",
-    "static/media/email2.svg": "/portfolio-react/static/media/email2.be483df2c7b6b95812f1bb51560414ff.svg",
-    "static/media/github-icon.svg": "/portfolio-react/static/media/github-icon.3f933e9c474180b327422e7b8ce8d9cb.svg",
-    "static/media/moon.svg": "/portfolio-react/static/media/moon.28d92db14f70f1c427ae47e111833dd8.svg",
-    "static/media/linkedin-icon.svg": "/portfolio-react/static/media/linkedin-icon.2515ef435f0c4d41742e880683efa77e.svg",
-    "static/media/facebook-icon.svg": "/portfolio-react/static/media/facebook-icon.92de8aedc143106eb025882995427cdc.svg",
-    "main.5a964622.css.map": "/portfolio-react/static/css/main.5a964622.css.map",
-    "main.5b0cb90a.js.map": "/portfolio-react/static/js/main.5b0cb90a.js.map"
+    "main.css": "/Portfolio-React/static/css/main.5a964622.css",
+    "main.js": "/Portfolio-React/static/js/main.57ada248.js",
+    "static/media/servicoches2-logo.jpg": "/Portfolio-React/static/media/servicoches2-logo.ac4b216ba2c49d71fc8a.jpg",
+    "static/media/profileImage3.jpeg": "/Portfolio-React/static/media/profileImage3.f51fcc2dda7056ef6005.jpeg",
+    "static/media/LogoBiofile.png": "/Portfolio-React/static/media/LogoBiofile.8e82da7695cc421b59bd.png",
+    "static/media/online-store.png": "/Portfolio-React/static/media/online-store.289aa9a3b78b57538cd7.png",
+    "static/media/portfolio.jpeg": "/Portfolio-React/static/media/portfolio.26078b838824c6060acd.jpeg",
+    "static/media/americangrill-logo.jpeg": "/Portfolio-React/static/media/americangrill-logo.8c4a819b927bb23e5ae1.jpeg",
+    "static/media/DeliveryApp.jpeg": "/Portfolio-React/static/media/DeliveryApp.2dffc4f0737332f8b6eb.jpeg",
+    "static/media/LogoEnciso.png": "/Portfolio-React/static/media/LogoEnciso.6f6e5a0f429697deb5cb.png",
+    "static/media/chatApp.png": "/Portfolio-React/static/media/chatApp.998d3417a9394b3a468d.png",
+    "static/media/crud-node-mysql.png": "/Portfolio-React/static/media/crud-node-mysql.724dafb511cbee32ed29.png",
+    "static/media/sun.svg": "/Portfolio-React/static/media/sun.cf2ff2e2a87e9c214d0930a0194f5db2.svg",
+    "index.html": "/Portfolio-React/index.html",
+    "static/media/twitter-icon.svg": "/Portfolio-React/static/media/twitter-icon.c65b67674688060ff5c9662dfee89c28.svg",
+    "static/media/email2.svg": "/Portfolio-React/static/media/email2.be483df2c7b6b95812f1bb51560414ff.svg",
+    "static/media/github-icon.svg": "/Portfolio-React/static/media/github-icon.3f933e9c474180b327422e7b8ce8d9cb.svg",
+    "static/media/moon.svg": "/Portfolio-React/static/media/moon.28d92db14f70f1c427ae47e111833dd8.svg",
+    "static/media/linkedin-icon.svg": "/Portfolio-React/static/media/linkedin-icon.2515ef435f0c4d41742e880683efa77e.svg",
+    "static/media/facebook-icon.svg": "/Portfolio-React/static/media/facebook-icon.92de8aedc143106eb025882995427cdc.svg",
+    "main.5a964622.css.map": "/Portfolio-React/static/css/main.5a964622.css.map",
+    "main.57ada248.js.map": "/Portfolio-React/static/js/main.57ada248.js.map"
   },
   "entrypoints": [
     "static/css/main.5a964622.css",
-    "static/js/main.5b0cb90a.js"
+    "static/js/main.57ada248.js"
   ]
 }
