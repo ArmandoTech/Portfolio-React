@@ -13,7 +13,7 @@ export const Container = ({technologies, linkGithub, image, linkInternet, childr
                   linkInternet ? 
                     <> 
                       <a href={linkInternet} target="_blank" rel="noreferrer">
-                      <i class="fas fa-globe"></i
+                      <i className="fas fa-globe"></i
                       ></a>
                     </>
                     : linkGithub ?  
@@ -28,7 +28,7 @@ export const Container = ({technologies, linkGithub, image, linkInternet, childr
                       <i className="fab fa-github"></i>
                       </a>
                       <a href={linkInternet} target="_blank" rel="noreferrer">
-                      <i class="fas fa-globe"></i
+                      <i className="fas fa-globe"></i
                       ></a>
                     </>
                     : <a href="https://armandotech.github.io/Portfolio-React/">#</a>

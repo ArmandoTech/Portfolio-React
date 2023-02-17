@@ -3,11 +3,11 @@ import {facebookIcon, twitterIcon, linkedinIcon, githubIcon, mailIcon} from "../
 export const Footer = () => {
   return (
     <footer id="footer">
-      <div class="container">
+      <div className="container">
         <a href="mailto:armandoarenass@hotmail.com" target="_blank" rel="noreferrer"
           >Want to connect? Mail me!</a
         >
-        <div class="social">
+        <div className="social">
           <a href="mailto:armandoarenass@hotmail.com" target="_blank" rel="noreferrer">
             <img src={mailIcon} alt="Hotmail" style={{display:"inline-block"}}
           /></a>
