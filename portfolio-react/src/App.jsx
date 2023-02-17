@@ -21,7 +21,7 @@ function App() {
     <section id="projects" className="project-container container">
     <Divisor text="I have worked as Quality Assurance and 
     Fullstack Developer for world class observatories such as 
-    the ESO, IAU and NoirLab as for medical software company, 
+    the ESO, IAU and NoirLab, as for medical software company, 
     using both Spanish and English communication.">
     Experience
     </Divisor>
