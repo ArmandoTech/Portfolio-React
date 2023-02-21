@@ -1,5 +1,5 @@
 import { Container } from "./Container"
-import servicoches from "../assets/project/servicoches2-logo.jpg"
+import servicoches from "../assets/project/servicoches3-logo.jpg"
 import { biofile, enciso } from "../assets/experience"
 
 export const Experience = () => {
